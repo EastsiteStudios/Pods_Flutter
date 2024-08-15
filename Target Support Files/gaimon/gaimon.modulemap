@@ -1,0 +1,6 @@
+framework module gaimon {
+  umbrella header "gaimon-umbrella.h"
+
+  export *
+  module * { export * }
+}
